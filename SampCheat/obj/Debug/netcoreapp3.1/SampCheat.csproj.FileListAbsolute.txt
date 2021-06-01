@@ -1,0 +1,16 @@
+C:\Users\nonst\source\repos\SampCheat\SampCheat\bin\Debug\netcoreapp3.1\SampCheat.exe
+C:\Users\nonst\source\repos\SampCheat\SampCheat\bin\Debug\netcoreapp3.1\SampCheat.deps.json
+C:\Users\nonst\source\repos\SampCheat\SampCheat\bin\Debug\netcoreapp3.1\SampCheat.runtimeconfig.json
+C:\Users\nonst\source\repos\SampCheat\SampCheat\bin\Debug\netcoreapp3.1\SampCheat.runtimeconfig.dev.json
+C:\Users\nonst\source\repos\SampCheat\SampCheat\bin\Debug\netcoreapp3.1\SampCheat.dll
+C:\Users\nonst\source\repos\SampCheat\SampCheat\bin\Debug\netcoreapp3.1\SampCheat.pdb
+C:\Users\nonst\source\repos\SampCheat\SampCheat\obj\Debug\netcoreapp3.1\SampCheat.csprojAssemblyReference.cache
+C:\Users\nonst\source\repos\SampCheat\SampCheat\obj\Debug\netcoreapp3.1\SampCheat.Form1.resources
+C:\Users\nonst\source\repos\SampCheat\SampCheat\obj\Debug\netcoreapp3.1\SampCheat.Properties.Resources.resources
+C:\Users\nonst\source\repos\SampCheat\SampCheat\obj\Debug\netcoreapp3.1\SampCheat.csproj.GenerateResource.cache
+C:\Users\nonst\source\repos\SampCheat\SampCheat\obj\Debug\netcoreapp3.1\SampCheat.AssemblyInfoInputs.cache
+C:\Users\nonst\source\repos\SampCheat\SampCheat\obj\Debug\netcoreapp3.1\SampCheat.AssemblyInfo.cs
+C:\Users\nonst\source\repos\SampCheat\SampCheat\obj\Debug\netcoreapp3.1\SampCheat.csproj.CoreCompileInputs.cache
+C:\Users\nonst\source\repos\SampCheat\SampCheat\obj\Debug\netcoreapp3.1\SampCheat.dll
+C:\Users\nonst\source\repos\SampCheat\SampCheat\obj\Debug\netcoreapp3.1\SampCheat.pdb
+C:\Users\nonst\source\repos\SampCheat\SampCheat\obj\Debug\netcoreapp3.1\SampCheat.genruntimeconfig.cache
