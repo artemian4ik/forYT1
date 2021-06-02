@@ -1,0 +1,10 @@
+C:\Users\nonst\source\repos\cheatsamp22\cheatsamp22\bin\Debug\cheatsamp22.exe.config
+C:\Users\nonst\source\repos\cheatsamp22\cheatsamp22\bin\Debug\cheatsamp22.exe
+C:\Users\nonst\source\repos\cheatsamp22\cheatsamp22\bin\Debug\cheatsamp22.pdb
+C:\Users\nonst\source\repos\cheatsamp22\cheatsamp22\obj\Debug\cheatsamp22.csprojAssemblyReference.cache
+C:\Users\nonst\source\repos\cheatsamp22\cheatsamp22\obj\Debug\cheatsamp22.Form1.resources
+C:\Users\nonst\source\repos\cheatsamp22\cheatsamp22\obj\Debug\cheatsamp22.Properties.Resources.resources
+C:\Users\nonst\source\repos\cheatsamp22\cheatsamp22\obj\Debug\cheatsamp22.csproj.GenerateResource.cache
+C:\Users\nonst\source\repos\cheatsamp22\cheatsamp22\obj\Debug\cheatsamp22.csproj.CoreCompileInputs.cache
+C:\Users\nonst\source\repos\cheatsamp22\cheatsamp22\obj\Debug\cheatsamp22.exe
+C:\Users\nonst\source\repos\cheatsamp22\cheatsamp22\obj\Debug\cheatsamp22.pdb
