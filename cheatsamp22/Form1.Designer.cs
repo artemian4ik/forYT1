@@ -54,6 +54,7 @@ namespace cheatsamp22
             this.button1.TabIndex = 0;
             this.button1.Text = "Готово";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -225,6 +226,7 @@ namespace cheatsamp22
             this.Name = "Form1";
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "SampCheat 8.4";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
